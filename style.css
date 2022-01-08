@@ -1,10 +1,10 @@
 body{
-   background-color: chartreuse;
+   background-color: rgb(252, 188, 115);
 }
 
 h1{
     color: #090080;
-    background-color: rgb(255, 190, 160);
+    background-color: rgb(182, 255, 160);
 }
 
 #show_sketch{
@@ -23,8 +23,8 @@ canvas{
 
 
 @keyframes example { 
-    from {box-shadow: 1px 1px 38px grey;}
-     to {box-shadow: 1px 1px 38px white;} } 
+    from {box-shadow: 1px 1px 38px rgb(0, 0, 0);}
+     to {box-shadow: 1px 1px 38px rgb(35, 1, 99);} } 
      
 p{
   padding-top:10px; 
